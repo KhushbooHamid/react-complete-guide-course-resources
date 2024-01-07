@@ -1,0 +1,11 @@
+{
+  "name": "react-complete-guide-course-resources",
+  "version": "1.0.0",
+  "description": "This repository provides access to code files, code snapshots, slides & other resources that are used or provided by the [React - The Complete Guide](https://acad.link/reactjs) course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
